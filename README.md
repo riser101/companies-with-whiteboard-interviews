@@ -66,10 +66,14 @@ Please feel free to add more by raising pull requests.
 59. clevertap
 60. chargebee
 61. hackerrank
-62. Zoom Video Communications
+62. zoom video communications
 62. expedia
 63. slack
 64. thoughtworks
 65. zynga
 66. nutanix
 67. twilio
+68. google
+69. microsoft
+70. intuit
+
