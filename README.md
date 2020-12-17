@@ -2,7 +2,7 @@
 This is a curated list of companies that conduct white-board interviews for engineering roles, i.e typical data structures & algorithms based interviews. 
 I tried to find such a list on the internet but it didn't exist, hence built this for me, and everyone!
 
-Please feel free to add more but raising requests.
+Please feel free to add more by raising pull requests.
 
 1. browsertstack
 2. gojek
