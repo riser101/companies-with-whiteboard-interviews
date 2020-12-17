@@ -67,3 +67,8 @@ Please feel free to add more but raising requests.
 61. hackerrank
 62. Zoom Video Communications
 62. expedia
+63. slack
+64. thoughtworks
+65. zynga
+66. nutanix
+67. twilio
