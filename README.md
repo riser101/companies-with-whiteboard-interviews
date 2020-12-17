@@ -1,4 +1,4 @@
-# List of Companies with white-board interveiws in India
+# List of Companies with white-board interviews in India
 
 This is a curated list of companies that conduct white-board interviews for engineering roles, i.e typical data structures & algorithms based interviews. 
 I tried to find such a list on the internet but it didn't exist, hence built this for me, and everyone!
