@@ -73,7 +73,6 @@ Please feel free to add more by raising pull requests.
 65. zynga
 66. nutanix
 67. twilio
-68. google
-69. microsoft
-70. intuit
+68. microsoft
+69. intuit
 
